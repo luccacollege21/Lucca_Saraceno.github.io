@@ -20,7 +20,7 @@ body {
 
 .custom-navbar .nav-link:hover,
 .custom-navbar .nav-link.active {
-    color: #ffffff;
+    color: #D5E3ED;
     text-decoration: underline;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 .footer {
-    background-color: #D5E3ED;
+    background-color: #273CB2;
     color: white;
     padding: 20px;
 }
